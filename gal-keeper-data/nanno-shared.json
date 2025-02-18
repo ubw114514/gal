@@ -146,7 +146,7 @@
     {
       "id": "964d7301-2afb-4f23-8963-0944e5f9c366",
       "vndbId": "v20860",
-      "updateDate": 1739860241.143,
+      "updateDate": 1739862340.935,
       "alias": [
         "景の海のアペイリア",
         "빛의 바다의 아페이리아",
@@ -210,8 +210,8 @@
           "name": "jawiki"
         },
         {
-          "name": "wikidata",
-          "url": "https://www.wikidata.org/wiki/Q30930438"
+          "url": "https://www.wikidata.org/wiki/Q30930438",
+          "name": "wikidata"
         }
       ],
       "cover": "https://t.vndb.org/cv/37/89537.jpg",

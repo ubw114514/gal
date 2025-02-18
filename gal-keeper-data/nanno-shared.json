@@ -47,9 +47,15 @@
         "Dragon Protagonist",
         "Consensual Sex Involving Tentacles"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1739863340,
+          1739863345,
+          3
+        ]
+      ],
       "expectedPlayHours": 0,
-      "lastPlay": 0,
+      "lastPlay": 1739863345000,
       "createDate": 1739859920041,
       "releaseDate": 1509062400000,
       "rating": 8.6,

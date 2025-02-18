@@ -969,7 +969,7 @@
     {
       "id": "5c256251-76ed-4fb7-b76d-ca13fe645d40",
       "vndbId": "v562",
-      "updateDate": 1739860740.602,
+      "updateDate": 1739861343.047,
       "alias": [
         "サクラノ詩－櫻の森の上を舞う－",
         "사쿠라의 시 -벚꽃 숲 위에 흩날리다-",
@@ -1234,6 +1234,57 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/88/75488.jpg",
       "title": "Otome Sekai no Arukikata"
+    },
+    {
+      "id": "b15a6273-b05f-4ac6-8540-198425a1fa18",
+      "vndbId": "v47186",
+      "updateDate": 1739861162.367,
+      "alias": [
+        "RE:D Cherish! SS ルージュのワンオペレーション"
+      ],
+      "description": "With the chaos involving Caroline finally settled, Rouge had reconciled with her mother, Belladonna.\nRouge was now living a blissful, lovey-dovey life with Yukimitsu.\nBut even though they’d made up, Rouge and Belladonna still couldn’t quite bridge the gap between them.\nSeeing this, Yukimitsu decided to step in and help mend their relationship—\n\n※This story takes place just before the epilogue of the main story RE:D Cherish! (Rouge’s route), a little before the birth of their child.\n\n[Translated from [url=https://www.getchu.com/soft.phtml?id=1251011]getchu[/url]]",
+      "tags": [
+        "Sexual Content",
+        "Male Protagonist",
+        "Heroine with Big Breasts"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 1.9,
+      "lastPlay": 0,
+      "createDate": 1739861104142,
+      "releaseDate": 1700784000000,
+      "rating": 7.2,
+      "developer": "CRYSTALiA",
+      "images": [],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/76/72076.jpg",
+      "title": "RE:D Cherish! SS Rouge no One Operation"
+    },
+    {
+      "id": "e8a2829a-c8ae-4d7e-ac21-0a45506861b8",
+      "vndbId": "v47185",
+      "updateDate": 1739861259.168,
+      "alias": [
+        "RE:D Cherish！ SS デスのワンオペレーション"
+      ],
+      "description": "",
+      "tags": [
+        "Sexual Content",
+        "Genius Heroine",
+        "Male Protagonist",
+        "Tomboy Heroine"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 2,
+      "lastPlay": 0,
+      "createDate": 1739861209010,
+      "releaseDate": 1700784000000,
+      "rating": 7,
+      "developer": "CRYSTALiA",
+      "images": [],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/77/72077.jpg",
+      "title": "RE:D Cherish! SS Des no One Operation"
     }
   ]
 }

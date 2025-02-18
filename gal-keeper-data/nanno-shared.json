@@ -2,13 +2,15 @@
   "deleteIds": [
     "f5f8cec5-bb74-4509-a242-7fd492fd0fad",
     "f41271c5-5a44-4976-92cf-bda3e376ed3a",
-    "8c219dc7-d6b0-4c37-82f9-2a73cd05fa4f"
+    "8c219dc7-d6b0-4c37-82f9-2a73cd05fa4f",
+    "40a99b84-3c20-44f3-86d1-9f6195a496ad",
+    "ab31038b-7397-4d26-858c-6d584400209a"
   ],
   "data": [
     {
       "id": "690bcc61-b584-43a2-83bd-fd8a9a36513a",
       "vndbId": "v21328",
-      "updateDate": 1739859920.041,
+      "updateDate": 1739862697.465,
       "alias": [
         "VenusBlood -BRAVE-"
       ],
@@ -969,7 +971,7 @@
     {
       "id": "5c256251-76ed-4fb7-b76d-ca13fe645d40",
       "vndbId": "v562",
-      "updateDate": 1739861343.047,
+      "updateDate": 1739862737.322,
       "alias": [
         "サクラノ詩－櫻の森の上を舞う－",
         "사쿠라의 시 -벚꽃 숲 위에 흩날리다-",
@@ -1013,7 +1015,7 @@
       "lastPlay": 0,
       "createDate": 1739860740602,
       "releaseDate": 1445558400000,
-      "rating": 8.8,
+      "rating": 9.5,
       "developer": "Makura",
       "images": [
         "https://t.vndb.org/sf/29/37029.jpg",

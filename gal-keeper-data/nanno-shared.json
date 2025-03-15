@@ -1460,21 +1460,74 @@
     },
     {
       "id": "45ac056e-0f94-44ee-b5ff-da1a747c4d54",
-      "updateDate": 1742039759.331,
-      "alias": [],
-      "description": "",
-      "tags": [],
+      "vndbId": "v7773",
+      "updateDate": 1742039808.906,
+      "alias": [
+        "レミニセンス"
+      ],
+      "description": "Shimazu Hidetaka is the very definition of a broken man — the events of five years ago have left him with a broken family, a broken mind, and a broken spirit. And to add icing to the cake, he's pretty much broke. But a proposal from his saviour makes him decide to put the pieces of his life back together.\n\nLittle did he know that he'd also start putting together a much larger jigsaw puzzle: one of Hopes and Dreams, lies and deceit, and the remnants of a long-forgotten era.",
+      "tags": [
+        "Multiple Endings",
+        "Intrigue",
+        "Battle of Wits",
+        "Late Branching Plot",
+        "Protagonist with Psychological Problems",
+        "Proactive Protagonist",
+        "Robot Heroine",
+        "Male Protagonist",
+        "Adult Protagonist",
+        "Genius Protagonist",
+        "Late Sexual Content",
+        "ADV",
+        "Politics",
+        "Comedy",
+        "Missionary Position",
+        "Colored Texts",
+        "Idol Heroine",
+        "Future Earth",
+        "Drama",
+        "Ojousama Heroine",
+        "Yandere Heroine",
+        "Dying Heroine",
+        "Student Heroine",
+        "Unlockable Routes",
+        "Multiple Route Mystery",
+        "Nakige",
+        "Protagonist with Sexual Experience",
+        "Ponytail Heroine",
+        "Defloration",
+        "Only Virgin Heroines"
+      ],
       "playTimelines": [],
-      "expectedPlayHours": 0,
+      "expectedPlayHours": 35.6,
       "lastPlay": 0,
       "createDate": 1742039759331,
-      "releaseDate": 0,
-      "rating": 0,
-      "developer": "",
-      "images": [],
-      "links": [],
-      "cover": "",
-      "title": "レミニセンス Reminiscence"
+      "releaseDate": 1369958400000,
+      "rating": 7.8,
+      "developer": "Tigre Soft",
+      "images": [
+        "https://t.vndb.org/sf/52/47952.jpg",
+        "https://t.vndb.org/sf/53/47953.jpg",
+        "https://t.vndb.org/sf/54/47954.jpg",
+        "https://t.vndb.org/sf/55/47955.jpg",
+        "https://t.vndb.org/sf/56/47956.jpg",
+        "https://t.vndb.org/sf/57/47957.jpg",
+        "https://t.vndb.org/sf/58/47958.jpg",
+        "https://t.vndb.org/sf/10/50910.jpg",
+        "https://t.vndb.org/sf/11/50911.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/レミニセンス_(ゲーム)",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q11349910",
+          "name": "wikidata"
+        }
+      ],
+      "cover": "https://t.vndb.org/cv/29/70729.jpg",
+      "title": "Reminiscence"
     }
   ]
 }

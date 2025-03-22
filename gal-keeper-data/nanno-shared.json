@@ -351,9 +351,15 @@
         "Side Portraits",
         "Protagonist with Partial Voice Acting"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1742614963,
+          1742615000,
+          35
+        ]
+      ],
       "expectedPlayHours": 27.2,
-      "lastPlay": 0,
+      "lastPlay": 1742615000000,
       "createDate": 1739860313762,
       "releaseDate": 1645747200000,
       "rating": 8.8,

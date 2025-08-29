@@ -443,7 +443,7 @@
     {
       "id": "4961c57a-ece6-4638-a6e1-63faee1aad97",
       "vndbId": "v47547",
-      "updateDate": 1746270048.94,
+      "updateDate": 1756398578.846,
       "alias": [
         "アンラベル・トリガー"
       ],
@@ -480,9 +480,15 @@
         "Lip Sync",
         "Music Recollection"
       ],
-      "playTimelines": [],
+      "playTimelines": [
+        [
+          1756398684,
+          1756398747,
+          62
+        ]
+      ],
       "expectedPlayHours": 38.7,
-      "lastPlay": 0,
+      "lastPlay": 1756398747000,
       "createDate": 1739860361136,
       "releaseDate": 1711670400000,
       "rating": 8.6,
@@ -1669,10 +1675,15 @@
           1755614302,
           1755614358,
           31
+        ],
+        [
+          1756398595,
+          1756398650,
+          38
         ]
       ],
       "expectedPlayHours": 35.6,
-      "lastPlay": 1755614358000,
+      "lastPlay": 1756398650000,
       "createDate": 1742039759331,
       "releaseDate": 1369958400000,
       "rating": 9.2,
